@@ -1,3 +1,5 @@
+### Initially cloned from https://github.com/khoanguyen96/dockerfiles/tree/master/percona-xtrabackup
+
 # Percona XtraBackup Docker Image
 Alpine Docker Image with Percona XtraBackup v2.3.8
 
